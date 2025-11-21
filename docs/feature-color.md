@@ -1,1 +1,1 @@
-ici seront les couleurs . bananes 
+ici seront les couleurs .
