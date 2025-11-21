@@ -18,7 +18,7 @@ Date:   Fri Nov 21 17:07:07 2025 +0100
 
 
 
-pour la différence de fichier j'ai utilisé git diff et voici ce qui s'est affiché :
+pour la différence de fichier j'ai utilisé git diff et voici ce qui s'est affiché dans le cas de main et dev:
 
 diff --git a/README b/README
 index ae65f16..7e1dba8 100644
